@@ -43,18 +43,18 @@ I have worked on enterprise-level applications including HRMS, CRM, attendance s
 ## 🚀 Featured Projects
 
 ### 🔹 HRMS & Attendance Management System
-- Attendance, leave, overtime, geofencing, approvals
-- Role-based access control
-- Flutter + Laravel backend
+- Geofence based Attendance with live tracking ,
+- Leave, Overtime and Reimbursement Management System
+- Holiday Monthly/Yearly Calender
 
 ### 🔹 CRM & Ticketing System
-- Lead management
-- Ticket escalation
-- SLA monitoring
+- Lead management System with Daily Sales Reports
+- Ticket Monitoring and escalations, open tickets 
+- Part Request Management , Ticket Inbox.
 
-### 🔹 Flutter UI Projects
+### 🔹 Other Projects
 - Netflix UI Clone  
-- Calculator App  
+- Calculator Web App  
 - Temperature Converter  
 
 ---
