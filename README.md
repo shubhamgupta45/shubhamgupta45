@@ -32,10 +32,11 @@ I have worked on enterprise-level applications including HRMS, CRM, attendance s
 - MySQL  
 
 **Tools & Others:**  
-- Git & GitHub  
+- Git & GitHub,GitLab
 - Firebase  
-- Postman  
-- Linux / macOS  
+- Postman
+- Android Studio / Xcode
+
 
 ---
 
