@@ -61,9 +61,9 @@ I have worked on enterprise-level applications including HRMS, CRM, attendance s
 
 ## 📊 GitHub Statistics
 
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamgupta45&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubhamgupta45&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamgupta45&layout=compact&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shubhamgupta45&theme=tokyonight)
 
 ---
 
